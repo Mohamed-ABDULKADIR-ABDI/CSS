@@ -1,0 +1,8 @@
+body {
+    background-color: blueviolet;
+    background-image: url(https://media.istockphoto.com/id/1155277407/vector/sea-underwater-background-marine-sea-bottom-with-underwater-plants-corals-and-fishs.jpg?s=612x612&w=0&k=20&c=BsMMPcnQQ3HQe0K9l8xsUloGf5sv5ZbVnlxVWc_gSAI=);
+background-repeat: no-repeat;
+background-size: cover;
+background: green no-repeat cover url(https://media.istockphoto.com/id/1155277407/vector/sea-underwater-background-marine-sea-bottom-with-underwater-plants-corals-and-fishs.jpg?s=612x612&w=0&k=20&c=BsMMPcnQQ3HQe0K9l8xsUloGf5sv5ZbVnlxVWc_gSAI=);
+
+}
